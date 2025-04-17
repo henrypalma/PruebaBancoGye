@@ -16,3 +16,5 @@ C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\Infrast
 C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\Infrastructure\bin\Debug\net8.0\Application.pdb

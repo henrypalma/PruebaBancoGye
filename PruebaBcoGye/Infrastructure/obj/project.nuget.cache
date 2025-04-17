@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aHM3G8vtuE6guVXUMUdfFA7PzQDEw0/JCKzk5bhK8t3iHncqQxp1hyowksOxYndkD6hvazCBsjNc1JuLVbpfHA==",
+  "dgSpecHash": "0NIp6YWHEXqLHP3U2DM5ea6S6XTX8UfSBf+kJb0LeX2040Bo+Cl1otDJ74LY6Zlh18Ek/yreiC5UfHhfWrvpEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "C:\\Users\\Henry Palma\\.nuget\\packages\\efcore.bulkextensions.sqlite\\8.1.2\\efcore.bulkextensions.sqlite.8.1.2.nupkg.sha512",
     "C:\\Users\\Henry Palma\\.nuget\\packages\\efcore.bulkextensions.sqlserver\\8.1.2\\efcore.bulkextensions.sqlserver.8.1.2.nupkg.sha512",
     "C:\\Users\\Henry Palma\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Henry Palma\\.nuget\\packages\\medalliontopologicalsort\\1.0.0\\medalliontopologicalsort.1.0.0.nupkg.sha512",
     "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

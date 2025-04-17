@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "nOLy7jE1Jftakd1Lv8m2GxpEDNXDX60SIyFC9YRiZSk579w1e/O1BfW7l+rvPDGyXWaFr+CQkGL2ZvQwpF7SXw==",
+  "dgSpecHash": "/QYMA4vl5YUv6in06whiYttYd5xirQaX86Lp4+MW2XC3x/cF8ByacxtDR3ZHbP2Dk0Vb6vOJF3VRTbyMuxh4zA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.35.0\\microsoft.identitymodel.jsonwebtokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.identitymodel.logging\\6.35.0\\microsoft.identitymodel.logging.6.35.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.35.0\\system.identitymodel.tokens.jwt.6.35.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Henry Palma\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }

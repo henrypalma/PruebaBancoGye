@@ -1,12 +1,20 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Application.Interfaces.Seguridad;
+using Domain.DTOs.Authenticate;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace API.Controllers.Seguridad
 {
-    public class AuthController : Controller
+    [Route("auth")]
+    [ApiController]
+    public class AuthController(IAuthenticateServicio authenticateService) : ControllerBase
     {
-        public IActionResult Index()
+
+        [HttpPost("login")]
+        public async Task<IActionResult> SignIn([FromBody] LoginDto request)
         {
-            return View();
+            var response = await authenticateService.AuthenticateLogin(request);
+            return Ok(response);
         }
     }
 }
