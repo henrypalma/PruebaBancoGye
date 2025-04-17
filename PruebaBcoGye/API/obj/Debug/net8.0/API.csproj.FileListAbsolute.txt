@@ -119,3 +119,4 @@ C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\API\bin
 C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\API\bin\Debug\net8.0\Mapster.dll
 C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\API\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\Henry Palma\source\repos\henrypalma\PruebaBancoGye\PruebaBcoGye\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
