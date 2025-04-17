@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Application.Interfaces
 {
-    public interface IClienteServicio
+    public interface IProductoServicio
     {
-        Task<List<ClientesDto>> ConsultarTodo();
-        Task<ClientesDto> ConsultarPorId(int id);
+        Task<List<ProductosDto>> ConsultarTodo();
+        Task<ProductosDto> ConsultarPorId(int id);
     }
 }

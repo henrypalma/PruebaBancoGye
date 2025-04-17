@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Identity.Client;
-using Infrastructure.tmp;
 
 namespace Infrastructure.Data.Contexts
 {

@@ -18,6 +18,8 @@ namespace Infrastructure.IoC
             services.AddDbContext<ApplicationDbContext>();
 
             services.AddTransient<IUsuarioVendedorRepositorio, UsuarioVendedorRepositorio>();
+            services.AddTransient<IClientesRepositorio, ClientesRepositorio>();
+            services.AddTransient<IProductoRepositorio, ProductoRepositorio>();
 
             return services;
         }

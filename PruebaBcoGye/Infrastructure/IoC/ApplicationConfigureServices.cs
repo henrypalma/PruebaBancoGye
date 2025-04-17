@@ -18,6 +18,8 @@ namespace Infrastructure.IoC
         {
             services.AddTransient<IUsuarioVendedorServicio, UsuarioVendedorServicio>();
             services.AddTransient<IAuthenticateServicio, AuthenticateServicio>();
+            services.AddTransient<IClienteServicio, ClienteServicio>();
+            services.AddTransient<IProductoServicio, ProductoServicio>();
 
             return services;
         }

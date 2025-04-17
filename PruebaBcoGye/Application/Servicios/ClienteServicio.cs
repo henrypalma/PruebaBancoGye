@@ -8,7 +8,7 @@ namespace Application.Servicios
 {
     public class ClienteServicio(IClientesRepositorio clientesRepositorio) : IClienteServicio
     {
-        public async Task<List<ClientesDto>> Consultar()
+        public async Task<List<ClientesDto>> ConsultarTodo()
         {
             var clientes = await clientesRepositorio.ConsultarTodosAsync();
             var clientedto = clientes.Adapt<IEnumerable<ClientesDto>>().ToList();
