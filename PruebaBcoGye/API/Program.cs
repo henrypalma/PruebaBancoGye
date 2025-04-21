@@ -6,8 +6,32 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+const string allowDevOrigins = "AllowAllOrigins";
+const string allowProdOrigins = "AllowSpecificOrigins";
+
 // Add services to the container.
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(allowDevOrigins, corsPolicyBuilder =>
+    {
+        corsPolicyBuilder
+            .AllowAnyMethod()
+            .AllowAnyHeader()
+            .AllowCredentials()
+            .SetIsOriginAllowed(origin => true);
+    });
+
+    options.AddPolicy(allowProdOrigins, corsPolicyBuilder =>
+    {
+        corsPolicyBuilder.AllowAnyMethod()
+            .AllowAnyHeader()
+            .AllowCredentials()
+            .SetIsOriginAllowedToAllowWildcardSubdomains()
+            .WithOrigins(["https://fenixpro-preproduccion.azurewebsites.net", "https://fenixpro-preproduccion.azurewebsites.net/"]);
+    });
+
+});
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -48,6 +72,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+var corsPolicy = app.Environment.IsDevelopment() || app.Environment.IsStaging() ? allowDevOrigins : allowProdOrigins;
+app.UseCors(allowDevOrigins);
 
 app.UseAuthentication();
 

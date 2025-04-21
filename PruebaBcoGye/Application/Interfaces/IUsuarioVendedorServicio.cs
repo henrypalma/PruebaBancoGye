@@ -9,6 +9,12 @@ namespace Application.Interfaces
 {
     public interface IUsuarioVendedorServicio
     {
+
+        Task<List<UsuarioVendedorDto>> ConsultarTodo();
         Task<UsuarioVendedorDto> ConsultarPorId(int id);
+
+        Task Grabar(UsuarioVendedorDto dto);
+        Task Actualizar(UsuarioVendedorDto dto);
+        Task Eliminar(int id);
     }
 }

@@ -11,5 +11,8 @@ namespace Application.Interfaces
     {
         Task<List<ProductosDto>> ConsultarTodo();
         Task<ProductosDto> ConsultarPorId(int id);
+        Task Grabar(ProductosDto dto);
+        Task Actualizar(ProductosDto dto);
+        Task Eliminar(int id);
     }
 }

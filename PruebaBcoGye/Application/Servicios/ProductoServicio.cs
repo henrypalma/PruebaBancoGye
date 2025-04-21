@@ -3,6 +3,7 @@ using Domain.DTOs;
 using Domain.Repositorios;
 using Domain.General;
 using Mapster;
+using Domain.Entidades;
 
 namespace Application.Servicios
 {
@@ -20,6 +21,26 @@ namespace Application.Servicios
             var producto = await productoRepositorio.ConsultarPorIdAsync(id);
             var productodto = producto.Adapt<ProductosDto>();
             return productodto;
+        }
+
+        public async Task Grabar(ProductosDto dto)
+        {
+            var producto = dto.Adapt<Productos>();
+            await productoRepositorio.GrabarAsync(producto);
+        }
+
+        public async Task Actualizar(ProductosDto dto)
+        {
+            var producto = dto.Adapt<Productos>();
+            await productoRepositorio.ActualizarAsync(producto);
+        }
+
+        public async Task Eliminar(int id)
+        {
+            var producto = await productoRepositorio.ConsultarPorIdAsync(id);
+            producto.Estado = (short)EstadoRegistro.Inactivo;
+            producto.FechaModificacion = DateTime.Now;
+            await productoRepositorio.ActualizarAsync(producto);
         }
 
     }

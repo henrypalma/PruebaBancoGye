@@ -13,8 +13,16 @@ namespace API.Controllers.Seguridad
         [HttpPost("login")]
         public async Task<IActionResult> SignIn([FromBody] LoginDto request)
         {
-            var response = await authenticateService.AuthenticateLogin(request);
-            return Ok(response);
+            try
+            {
+                var response = await authenticateService.AuthenticateLogin(request);
+                return Ok(response);
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            
         }
     }
 }
