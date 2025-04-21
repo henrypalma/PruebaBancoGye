@@ -16,7 +16,8 @@ namespace Application.Servicios
     {
         public async Task<UsuarioVendedorDto>ConsultarPorId(int id)
         {
-            var usuarioDto = await usuarioVendedorRepositorio.ConsultarPorId(id);
+            var usuario = await usuarioVendedorRepositorio.ConsultarPorIdAsync(id);
+            var usuarioDto = usuario.Adapt<UsuarioVendedorDto>();
             return usuarioDto switch
             {
                 null => throw new ApplicationException("Usuario no existe"),

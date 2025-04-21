@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\servicios\\usuariovendedorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\servicios\\usuariovendedorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\infrastructure\\data\\repositorios\\usuariovendedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorios\\usuariovendedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9161852-0A1B-4311-8293-F4077A0F8EF0}|Domain\\Domain.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\domain\\repositorios\\iusuariovendedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9161852-0A1B-4311-8293-F4077A0F8EF0}|Domain\\Domain.csproj|solutionrelative:domain\\repositorios\\iusuariovendedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\infrastructure\\data\\repositorios\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorios\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B8D6599-40CF-400C-BBE3-102651BDFDFA}|API\\API.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B8D6599-40CF-400C-BBE3-102651BDFDFA}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{5B8D6599-40CF-400C-BBE3-102651BDFDFA}|API\\API.csproj|solutionrelative:api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\servicios\\usuariovendedorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\servicios\\usuariovendedorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\interfaces\\iproductoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\servicios\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\servicios\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\application\\interfaces\\iclienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51DBA463-464F-4BCE-8FC3-F3A4776CBE01}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iclienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\infrastructure\\data\\repositorios\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorios\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B8D6599-40CF-400C-BBE3-102651BDFDFA}|API\\API.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\infrastructure\\data\\repositorios\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorios\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\infrastructure\\data\\repositorios\\usuariovendedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5182C99-FB8B-472D-880B-28B19DEAFE6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositorios\\usuariovendedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9161852-0A1B-4311-8293-F4077A0F8EF0}|Domain\\Domain.csproj|c:\\users\\henry palma\\source\\repos\\henrypalma\\pruebabancogye\\pruebabcogye\\domain\\entidades\\usuariovendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,59 +142,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductoServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Interfaces\\IProductoServicio.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductoServicio.cs",
-              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Interfaces\\IProductoServicio.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IProductoServicio.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioVendedorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Domain\\Repositorios\\IUsuarioVendedorRepositorio.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositorios\\IUsuarioVendedorRepositorio.cs",
+              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Domain\\Repositorios\\IUsuarioVendedorRepositorio.cs",
+              "RelativeToolTip": "Domain\\Repositorios\\IUsuarioVendedorRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T12:04:29.124Z",
+              "WhenOpened": "2025-04-21T12:59:30.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T11:57:35.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UsuarioVendedorServicio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\UsuarioVendedorServicio.cs",
               "RelativeDocumentMoniker": "Application\\Servicios\\UsuarioVendedorServicio.cs",
               "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\UsuarioVendedorServicio.cs",
               "RelativeToolTip": "Application\\Servicios\\UsuarioVendedorServicio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAB7AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T20:00:30.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "DocumentIndex": 4,
+              "Title": "ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\ProductoServicio.cs",
+              "RelativeDocumentMoniker": "Application\\Servicios\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\ProductoServicio.cs",
+              "RelativeToolTip": "Application\\Servicios\\ProductoServicio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:47:58.892Z",
+              "WhenOpened": "2025-04-17T22:29:55.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "RepositorioBase.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
+              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:02:36.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioVendedorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
+              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:00:41.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:57:35.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ClienteController.cs",
@@ -207,20 +233,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductoServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\ProductoServicio.cs",
-              "RelativeDocumentMoniker": "Application\\Servicios\\ProductoServicio.cs",
-              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\ProductoServicio.cs",
-              "RelativeToolTip": "Application\\Servicios\\ProductoServicio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAJAAAA",
+              "DocumentIndex": 6,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:29:55.291Z",
+              "WhenOpened": "2025-04-17T22:47:58.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IClienteServicio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Interfaces\\IClienteServicio.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IClienteServicio.cs",
@@ -233,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ClienteServicio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\ClienteServicio.cs",
               "RelativeDocumentMoniker": "Application\\Servicios\\ClienteServicio.cs",
@@ -246,20 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RepositorioBase.cs",
-              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
-              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\Repositorios\\RepositorioBase.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAIAzwBwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:02:36.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API\\appsettings.Development.json",
@@ -272,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AuthenticateServicio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Application\\Servicios\\Seguridad\\AuthenticateServicio.cs",
               "RelativeDocumentMoniker": "Application\\Servicios\\Seguridad\\AuthenticateServicio.cs",
@@ -285,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -293,11 +306,12 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T20:47:47.675Z"
+              "WhenOpened": "2025-04-17T20:47:47.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Contexts\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Contexts\\ApplicationDbContext.cs",
@@ -305,11 +319,12 @@
               "RelativeToolTip": "Infrastructure\\Data\\Contexts\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:41:25.937Z"
+              "WhenOpened": "2025-04-17T22:41:25.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IProductoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Domain\\Repositorios\\IProductoRepositorio.cs",
               "RelativeDocumentMoniker": "Domain\\Repositorios\\IProductoRepositorio.cs",
@@ -317,11 +332,12 @@
               "RelativeToolTip": "Domain\\Repositorios\\IProductoRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:19:26.551Z"
+              "WhenOpened": "2025-04-17T22:19:26.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ClientesRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\ClientesRepositorio.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositorios\\ClientesRepositorio.cs",
@@ -329,11 +345,12 @@
               "RelativeToolTip": "Infrastructure\\Data\\Repositorios\\ClientesRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T21:30:43.63Z"
+              "WhenOpened": "2025-04-17T21:30:43.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IClientesRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Domain\\Repositorios\\IClientesRepositorio.cs",
               "RelativeDocumentMoniker": "Domain\\Repositorios\\IClientesRepositorio.cs",
@@ -341,11 +358,12 @@
               "RelativeToolTip": "Domain\\Repositorios\\IClientesRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T21:31:14.727Z"
+              "WhenOpened": "2025-04-17T21:31:14.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ProductoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\ProductoRepositorio.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositorios\\ProductoRepositorio.cs",
@@ -353,19 +371,8 @@
               "RelativeToolTip": "Infrastructure\\Data\\Repositorios\\ProductoRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:07:32.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsuarioVendedorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
-              "ToolTip": "C:\\Users\\Henry Palma\\source\\repos\\henrypalma\\PruebaBancoGye\\PruebaBcoGye\\Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\Repositorios\\UsuarioVendedorRepositorio.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAEwA4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:00:41.113Z"
+              "WhenOpened": "2025-04-17T22:07:32.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -377,7 +384,8 @@
               "RelativeToolTip": "Domain\\Entidades\\UsuarioVendedor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:21:58.321Z"
+              "WhenOpened": "2025-04-17T16:21:58.321Z",
+              "EditorCaption": ""
             }
           ]
         }
